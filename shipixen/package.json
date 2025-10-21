@@ -65,7 +65,7 @@
     "github-slugger": "^1.4.0",
     "image-size": "^1.1.1",
     "image-type": "^5.2.0",
-    "lucide-react": "^0.400.0",
+    "lucide-react": "^0.544.0",
     "mime-types": "^2.1.35",
     "next": "14.2.16",
     "next-themes": "^0.2.1",
